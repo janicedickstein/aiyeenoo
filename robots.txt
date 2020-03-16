@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eucahtahde.sale.sh/sitemap.xml
